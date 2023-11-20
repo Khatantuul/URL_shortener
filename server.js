@@ -1,0 +1,9 @@
+import app from './app.js';
+
+const port = 3000;
+
+app.disable('x-powered-by');
+
+app.listen(port, ()=>{
+    console.log(`Server listening on port ${port}`);
+})
