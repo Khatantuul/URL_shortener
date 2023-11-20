@@ -9,11 +9,6 @@ A URL shortener service with REST APIs to generate short URLs.
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Configuration](#configuration)
-- [API Documentation](#api-documentation)
-- [Usage Examples](#usage-examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
